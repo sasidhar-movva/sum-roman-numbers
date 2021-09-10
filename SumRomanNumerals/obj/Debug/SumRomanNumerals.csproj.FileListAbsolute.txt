@@ -1,0 +1,7 @@
+C:\Srikanth Reddy\Code\Git\Roman\SumRomanNumerals\SumRomanNumerals\bin\Debug\SumRomanNumerals.exe.config
+C:\Srikanth Reddy\Code\Git\Roman\SumRomanNumerals\SumRomanNumerals\bin\Debug\SumRomanNumerals.exe
+C:\Srikanth Reddy\Code\Git\Roman\SumRomanNumerals\SumRomanNumerals\bin\Debug\SumRomanNumerals.pdb
+C:\Srikanth Reddy\Code\Git\Roman\SumRomanNumerals\SumRomanNumerals\obj\Debug\SumRomanNumerals.csproj.AssemblyReference.cache
+C:\Srikanth Reddy\Code\Git\Roman\SumRomanNumerals\SumRomanNumerals\obj\Debug\SumRomanNumerals.csproj.CoreCompileInputs.cache
+C:\Srikanth Reddy\Code\Git\Roman\SumRomanNumerals\SumRomanNumerals\obj\Debug\SumRomanNumerals.exe
+C:\Srikanth Reddy\Code\Git\Roman\SumRomanNumerals\SumRomanNumerals\obj\Debug\SumRomanNumerals.pdb
